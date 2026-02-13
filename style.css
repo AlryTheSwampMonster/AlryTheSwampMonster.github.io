@@ -3,13 +3,11 @@ body {
     margin: 40px;
     font-size: 0.80em;
     color: #333;
+}
 
-    div#container-wrap {
-    background: file(CEA-Neo-Banner-3.png) top left repeat-x;
+div#container-wrap {
+    background: url(CEA-Neo-Banner-3.png) top left repeat-x;
     background-size: 105px;
-    }
-
-
 }
 
 
