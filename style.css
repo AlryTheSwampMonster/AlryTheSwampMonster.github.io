@@ -5,11 +5,9 @@ body {
     color: #0d0f0d;
 }
 
-head{
-    div#container-wrap {
+div#container-wrap {
     background: url(CEA-Neo-Banner-3.png) top left repeat-x;
     background-size: 105px;
-    }
 }
 
 
