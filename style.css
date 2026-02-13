@@ -5,10 +5,11 @@ body {
     color: #333;
 
     div#container-wrap {
-    background: url(https://it-cea-wiki.wdfiles.com/local--files/component%3Atheme/CEA-Neo-Banner-3.png) top left repeat-x;
+    background: file(CEA-Neo-Banner-3.png) top left repeat-x;
     background-size: 105px;
     }
 
 
 }
+
 
