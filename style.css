@@ -1,13 +1,15 @@
+@import url('http://fonts.googleapis.com/css2?family=Jockey+One&display=swap');
+
 head{
     background: url(pic8.png); 
 }
 
 header {
-    
+    font-family: Jockey One;
 }
 
 body {
-    font-family: Arial, sans-serif;
+    font-family: Jockey One;
     margin: 40px;
     font-size: 0.80em;
     color: #0d0f0d;
